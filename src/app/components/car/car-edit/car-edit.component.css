@@ -1,3 +1,7 @@
+.field {
+  display: block;
+  max-width: 300px;
+}
 .giphy {
-    margin: 10px;
-  }
+  margin: 10px;
+}
